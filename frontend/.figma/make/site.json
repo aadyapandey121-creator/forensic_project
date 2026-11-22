@@ -1,0 +1,11 @@
+{
+  "description": "Secure data erasure and file recovery with a dual-signed, tamper-evident ledger. Every hash on this page is recomputed in your browser.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Akhanda - Forensic Chain of Custody"
+}
